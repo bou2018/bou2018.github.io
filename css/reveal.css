@@ -1591,7 +1591,7 @@ body {
   visibility: hidden; }
 
 
-  .reveal section.img_container {
+  .reveal section.img_container { 
     width: 100%;
     height: 100%;
     margin: 0;
